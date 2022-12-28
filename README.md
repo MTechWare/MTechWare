@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VMMax
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning | Lua and C++
+- 🌱 I’m currently learning | C++
  
 <!---
 VMMax/VMMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
