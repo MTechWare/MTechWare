@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MTechWare
-- 👀 I’m interested in Coding
+- 👀 I’m interested in being an IT Technician
 - 🌱 I’m currently learning | Batch
  
 <!---
