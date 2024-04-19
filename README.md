@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @MTechWare
-- 👀 I’m interested in being an Computer Support Specialist
-- 🌱 I’m currently learning | Python
- 
-<!---
-VMMax/VMMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm MTech!
+
+👨‍💻 I'm passionate about coding and creating innovative solutions using C#, JavaScript, Python, and Batch. Here's a glimpse of the tools I use:
+
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Script-Batch-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=4AB197)
+
+## 💬 Let's Connect
+- **Email:** uservvmax@gmail.com
+- **Website:** [Website]([https://www.linkedin.com/in/yourprofile](https://mtech.glitch.me/))
+
+## 🌟 A Little About Me
+- 🎓 I'm always learning new things.
+- 🚀 I love automating stuff.
+- 🎨 In my free time, I enjoy coding and gaming.
+
+Feel free to reach out if you want to chat about technology, code, or anything fun!
+
