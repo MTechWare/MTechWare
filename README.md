@@ -12,7 +12,7 @@
 
 ## 💬 Let's Connect
 - **Email:** uservvmax@gmail.com
-- **Website:** [Website]([https://www.linkedin.com/in/yourprofile](https://mtech.glitch.me/))
+- **Website:** https://mtech.glitch.me/
 
 ## 🌟 A Little About Me
 - 🎓 I'm always learning new things.
