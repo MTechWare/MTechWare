@@ -4,6 +4,7 @@
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=4AB197)
