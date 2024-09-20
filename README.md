@@ -14,6 +14,7 @@
 ## 💬 Let's Connect
 - **Email:** uservvmax@gmail.com
 - **Website:** https://mtech.glitch.me/
+- **Discord:** mtechware
 
 ## 🌟 A Little About Me
 - 🎓 I'm always learning new things.
