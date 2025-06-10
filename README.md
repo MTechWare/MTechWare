@@ -13,7 +13,7 @@
 
 ## 💬 Let's Connect
 - **Email:** uservvmax@gmail.com
-- **Website:** https://mtech.glitch.me/
+- **Website:** https://mtechware.github.io/
 - **Discord:** mtechware
 
 ## 🌟 A Little About Me
