@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="background: linear-gradient(135deg, #ff9800 0%, #ff5722 100%); color: transparent; -webkit-background-clip: text; background-clip: text; font-weight: bold;">MTechWare</span>
+# <span style="background: linear-gradient(135deg, #ff9800 0%, #ff5722 100%); color: transparent; -webkit-background-clip: text; background-clip: text; font-weight: bold;">Hi, I'm Max (MTechWare)</span>
 
 **IT Professional | Aspiring Help Desk Specialist**
 
