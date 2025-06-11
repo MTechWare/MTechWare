@@ -2,7 +2,7 @@
 
 # <span style="background: linear-gradient(135deg, #ff9800 0%, #ff5722 100%); color: transparent; -webkit-background-clip: text; background-clip: text; font-weight: bold;">Hi, I'm Max (MTechWare)</span>
 
-**IT Professional | Aspiring Help Desk Specialist**
+**IT Professional | Aspiring Computer Support Specialist**
 
 <a href="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square"><img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square" alt="Online"></a>
 <a href="https://mtechware.github.io/"><img src="https://img.shields.io/badge/Website-mtechware.github.io-ff9800?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
