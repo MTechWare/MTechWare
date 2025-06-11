@@ -43,12 +43,6 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <span style="font-size:2rem;">🐍</span><br>
-      <b>WinPY</b><br>
-      <sub>Python Utility</sub><br>
-      <a href="https://github.com/MTechWare/wintools_python_util"><img src="https://img.shields.io/badge/View%20Repo-333333?style=flat-square&logo=github" alt="View Repo"></a>
-    </td>
-    <td align="center" width="33%">
       <span style="font-size:2rem;">🚀</span><br>
       <b>WinTool</b><br>
       <sub>System Utility</sub><br>
