@@ -18,7 +18,7 @@
 
 > **Hi, I'm Max!**
 >
-> Aspiring IT Help Desk Specialist, currently developing skills in technical support and troubleshooting through dedicated study. Eager to apply knowledge in **hardware, software, and network administration** to provide the best user assistance.
+> Aspiring Computer Support Specialist, currently developing skills in technical support and troubleshooting through dedicated study. Eager to apply knowledge in **hardware, software, and network administration** to provide the best user assistance.
 
 ---
 
