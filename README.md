@@ -1,41 +1,80 @@
-<h1 align="center" style="color:#0078D7;">Hi, I'm <span style="color:#FF8800;">MTechWare</span>! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Studnet | Developer | Automation Enthusiast</b>
-</p>
+# <img src="https://img.icons8.com/ios-filled/50/ff9800/microchip.png" width="36" style="vertical-align:middle;"> <span style="background: linear-gradient(135deg, #ff9800 0%, #ff5722 100%); color: transparent; -webkit-background-clip: text; background-clip: text; font-weight: bold;">MTechWare</span>
 
----
+**IT Professional | Aspiring Help Desk Specialist**
 
-<p align="center">
-  <a href="mailto:uservvmax@gmail.com"><img src="https://img.shields.io/badge/Email-uservvmax@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://mtechware.github.io/"><img src="https://img.shields.io/badge/Website-mtechware.github.io-orange?style=flat-square&logo=github" alt="Website"></a>
-  <a href="https://discord.com/users/mtechware"><img src="https://img.shields.io/badge/Discord-mtechware-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
+<a href="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square"><img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square" alt="Online"></a>
+<a href="https://mtechware.github.io/"><img src="https://img.shields.io/badge/Website-mtechware.github.io-ff9800?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
+<a href="mailto:uservvmax@gmail.com"><img src="https://img.shields.io/badge/Email-uservvmax@gmail.com-43a047?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://discord.gg/nCmEQ8zaa7"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://github.com/MTechWare"><img src="https://img.shields.io/badge/GitHub-MTechWare-333333?style=flat-square&logo=github" alt="GitHub"></a>
 
----
-
-## 🛠️ Technologies & Tools
-<p>
-  <img src="https://img.shields.io/badge/OS-macOS-333333?style=flat-square&logo=apple&logoColor=white&color=orange" />
-  <img src="https://img.shields.io/badge/OS-Windows-333333?style=flat-square&logo=windows&logoColor=white&color=0078D7" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-333333?style=flat-square&logo=visual-studio-code&logoColor=white&color=007ACC" />
-  <img src="https://img.shields.io/badge/Code-C%23-333333?style=flat-square&logo=c-sharp&logoColor=white&color=239120" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-333333?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Code-Python-333333?style=flat-square&logo=python&logoColor=white&color=3776AB" />
-  <img src="https://img.shields.io/badge/Script-Batch-333333?style=flat-square&logo=gnu-bash&logoColor=white&color=4EAA25" />
-</p>
+</div>
 
 ---
 
-## 🌟 About Me
+## 👋 About Me
 
-- 🎓 Always learning and exploring new tech.
-- 🚀 Passionate about automation and efficiency.
-- 🎮 Gamer and coder in my free time.
-- 🤝 Open to collaboration and tech discussions.
+> **Hi, I'm Max!**
+>
+> Aspiring IT Help Desk Specialist, currently developing skills in technical support and troubleshooting through dedicated study. Eager to apply knowledge in **hardware, software, and network administration** to provide the best user assistance.
 
 ---
 
-<p align="center">
-  <i>Feel free to reach out if you want to chat about technology, code, or anything fun!</i>
-</p>
+## 🎓 Training & Education
+
+- **Technical Skills Focus:** Help Desk Support, System Administration, IT Infrastructure, User Support & Training, Problem Resolution.
+- **Community College:** IT Help Desk Program (2023 - Present)
+- **Certifications & Training:** TestOut PC Pro, TestOut Hybrid Server Pro, IT Help Desk Fundamentals, pursuing CCNA and scripting.
+
+---
+
+## 🛠️ Skills Overview
+
+- **Networking:** TCP/IP, DNS, DHCP, network troubleshooting
+- **Technical Support:** Diagnosing hardware/software issues, remote & in-person assistance, ticket management
+- **Operating Systems:** Windows (install, config, troubleshooting, user mgmt), basic Linux
+
+---
+
+## 🚀 Project Archive
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <span style="font-size:2rem;">🐍</span><br>
+      <b>WinPY</b><br>
+      <sub>Python Utility</sub><br>
+      <a href="https://github.com/MTechWare/wintools_python_util"><img src="https://img.shields.io/badge/View%20Repo-333333?style=flat-square&logo=github" alt="View Repo"></a>
+    </td>
+    <td align="center" width="33%">
+      <span style="font-size:2rem;">🚀</span><br>
+      <b>WinTool</b><br>
+      <sub>System Utility</sub><br>
+      <a href="https://github.com/MTechWare/wintool"><img src="https://img.shields.io/badge/View%20Repo-333333?style=flat-square&logo=github" alt="View Repo"></a>
+    </td>
+    <td align="center" width="33%">
+      <span style="font-size:2rem;">🌐</span><br>
+      <b>MTech Website</b><br>
+      <sub>Portfolio Site</sub><br>
+      <a href="https://github.com/MTechWare/MTechWare.github.io"><img src="https://img.shields.io/badge/View%20Repo-333333?style=flat-square&logo=github" alt="View Repo"></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Let's Connect
+
+- <img src="https://img.icons8.com/ios-filled/20/ff9800/gmail.png" width="18"> **Email:** [uservvmax@gmail.com](mailto:uservvmax@gmail.com)
+- <img src="https://img.icons8.com/ios-filled/20/ff9800/github.png" width="18"> **GitHub:** [MTechWare](https://github.com/MTechWare)
+- <img src="https://img.icons8.com/ios-filled/20/ff9800/discord-logo.png" width="18"> **Discord:** [Join the community](https://discord.gg/nCmEQ8zaa7)
+
+---
+
+<div align="center">
+
+<sub><code>:: IT_SUPPORT_PORTAL // Access Restricted :: Session ID: <b>b8e4c1d2</b> ::</code></sub>
+
+</div>
