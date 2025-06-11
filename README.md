@@ -2,10 +2,10 @@
   <img src="https://mtechware.github.io/assets/logo.png" alt="MTechWare Logo" width="120" />
 </p>
 
-<h1 align="center" style="color:#0078D7;">Hi, I'm <span style="color:#FF8800;">MTech</span>! 👋</h1>
+<h1 align="center" style="color:#0078D7;">Hi, I'm <span style="color:#FF8800;">MTechWare</span>! 👋</h1>
 
 <p align="center">
-  <b>Innovator | Developer | Automation Enthusiast</b>
+  <b>Studnet | Developer | Automation Enthusiast</b>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 - 🎓 Always learning and exploring new tech.
 - 🚀 Passionate about automation and efficiency.
-- 🎮 Gamer and creative coder in my free time.
+- 🎮 Gamer and coder in my free time.
 - 🤝 Open to collaboration and tech discussions.
 
 ---
