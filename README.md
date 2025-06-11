@@ -66,9 +66,3 @@
 - <img src="https://img.icons8.com/ios-filled/20/ff9800/discord-logo.png" width="18"> **Discord:** [Join the community](https://discord.gg/nCmEQ8zaa7)
 
 ---
-
-<div align="center">
-
-<sub><code>:: IT_SUPPORT_PORTAL // Access Restricted :: Session ID: <b>b8e4c1d2</b> ::</code></sub>
-
-</div>
