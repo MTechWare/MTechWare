@@ -25,7 +25,7 @@
 ## 🎓 Training & Education
 
 - **Technical Skills Focus:** Help Desk Support, System Administration, IT Infrastructure, User Support & Training, Problem Resolution.
-- **Community College:** IT Help Desk Program (2023 - Present)
+- **Community College:** CIT Computer Support Program (2023 - Present)
 - **Certifications & Training:** TestOut PC Pro, TestOut Hybrid Server Pro, IT Help Desk Fundamentals, pursuing CCNA and scripting.
 
 ---
