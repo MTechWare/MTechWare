@@ -66,7 +66,7 @@
 ## 📫 Let's Connect
 
 - <img src="https://img.icons8.com/ios-filled/20/ff9800/gmail.png" width="18"> **Email:** [uservvmax@gmail.com](mailto:uservvmax@gmail.com)
-- <img src="https://img.icons8.com/ios-filled/20/ff9800/github.png" width="18"> **GitHub:** [MTechWare](https://github.com/MTechWare)
+- <img src="https://img.icons8.com/ios-filled/20/ff9800/github.png" width="18"> **Website:** [MTechWare](https://mtechware.github.io/)
 - <img src="https://img.icons8.com/ios-filled/20/ff9800/discord-logo.png" width="18"> **Discord:** [Join the community](https://discord.gg/nCmEQ8zaa7)
 
 ---
