@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://mtechware.github.io/assets/logo.png" alt="MTechWare Logo" width="120" />
-</p>
-
 <h1 align="center" style="color:#0078D7;">Hi, I'm <span style="color:#FF8800;">MTechWare</span>! 👋</h1>
 
 <p align="center">
