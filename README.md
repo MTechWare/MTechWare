@@ -1,7 +1,5 @@
 <div align="center">
 
-# <img src="https://img.icons8.com/ios-filled/50/ff9800/microchip.png" width="36" style="vertical-align:middle;"> <span style="background: linear-gradient(135deg, #ff9800 0%, #ff5722 100%); color: transparent; -webkit-background-clip: text; background-clip: text; font-weight: bold;">MTechWare</span>
-
 **IT Professional | Aspiring Help Desk Specialist**
 
 <a href="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square"><img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square" alt="Online"></a>
