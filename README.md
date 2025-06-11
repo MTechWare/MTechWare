@@ -1,12 +1,14 @@
 <div align="center">
 
+# <span style="background: linear-gradient(135deg, #ff9800 0%, #ff5722 100%); color: transparent; -webkit-background-clip: text; background-clip: text; font-weight: bold;">MTechWare</span>
+
 **IT Professional | Aspiring Help Desk Specialist**
 
 <a href="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square"><img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square" alt="Online"></a>
 <a href="https://mtechware.github.io/"><img src="https://img.shields.io/badge/Website-mtechware.github.io-ff9800?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
-<a href="mailto:uservvmax@gmail.com"><img src="https://img.shields.io/badge/Email-uservvmax@gmail.com-43a047?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://discord.gg/nCmEQ8zaa7"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://github.com/MTechWare"><img src="https://img.shields.io/badge/GitHub-MTechWare-333333?style=flat-square&logo=github" alt="GitHub"></a>
+<a href="mailto:uservvmax@gmail.com"><img src="https://img.shields.io/badge/Email-uservvmax@gmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://discord.gg/nCmEQ8zaa7"><img src="https://img.shields.io/badge/Discord-Join%20Community-ff9800?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://github.com/MTechWare"><img src="https://img.shields.io/badge/GitHub-MTechWare-brightgreen?style=flat-square&logo=github" alt="GitHub"></a>
 
 </div>
 
