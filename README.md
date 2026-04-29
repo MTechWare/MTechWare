@@ -18,13 +18,14 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🔧 Skills Overview
 *Key technical competencies actively developed and applied.*
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <h4>🛠️ Technical Support</h4>
       <ul>
         <li>Hardware & Software Diagnostics</li>
@@ -32,7 +33,7 @@
         <li>Ticket Management Systems</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <h4>🖥️ Operating Systems</h4>
       <ul>
         <li>Windows Installation & Configuration</li>
@@ -42,7 +43,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <h4>🛡️ Help Desk Support</h4>
       <ul>
         <li>User Support & Escalation Workflows</li>
@@ -50,7 +51,7 @@
         <li>Clear Technical Communication</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <h4>🌐 AI & Automation</h4>
       <ul>
         <li>AI Fundamentals for IT Support</li>
@@ -61,7 +62,10 @@
   </tr>
 </table>
 
+</div>
+
 ---
+<div align="center">
 
 ## 🚀 Featured Projects
 *Personal projects demonstrating a growing skill set in system management and security.*
@@ -82,6 +86,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
