@@ -13,7 +13,7 @@
 ---
 
 ### 👋 About Me
-> Developing skills in technical support and troubleshooting through dedicated study. Eager to apply knowledge in **hardware, software, and network administration** to provide exceptional user assistance.
+> Developing skills in technical support and troubleshooting through dedicated study. Eager to apply knowledge in **hardware, software, and AI** to provide exceptional user assistance.
 
 </div>
 
@@ -96,7 +96,4 @@
 - 💬 **Discord:** [Join the Community](https://discord.gg/GSTEfkxhmD)
 - ✉️ **Email:** [uservvmax@gmail.com](mailto:uservvmax@gmail.com)
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/MTechWare-%C2%A9%202026-ff9800?style=flat-square" alt="Copyright">
-</div>
+---
