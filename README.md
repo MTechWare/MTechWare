@@ -1,58 +1,84 @@
 <div align="center">
 
-# <span style="background: linear-gradient(135deg, #ff9800 0%, #ff5722 100%); color: transparent; -webkit-background-clip: text; background-clip: text; font-weight: bold;">Hi, I'm Max (MTechWare)</span>
+# <span style="background: linear-gradient(135deg, #ff9800 0%, #e65100 100%); color: transparent; -webkit-background-clip: text; background-clip: text; font-weight: bold; font-size: 2.5rem;">Hi, I'm Max</span>
 
-**IT Professional | Aspiring Computer Support Specialist**
+**IT Professional**
 
-<a href="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square"><img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square" alt="Online"></a>
-<a href="https://mtechware.github.io/"><img src="https://img.shields.io/badge/Website-mtechware.github.io-ff9800?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
-<a href="mailto:uservvmax@gmail.com"><img src="https://img.shields.io/badge/Email-uservvmax@gmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://discord.gg/GSTEfkxhmD"><img src="https://img.shields.io/badge/Discord-Join%20Community-ff9800?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://github.com/MTechWare"><img src="https://img.shields.io/badge/GitHub-MTechWare-brightgreen?style=flat-square&logo=github" alt="GitHub"></a>
+<p align="center">
+  <a href="https://mtechware.github.io/"><img src="https://img.shields.io/badge/Portfolio-MTechWare-ff9800?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://discord.gg/GSTEfkxhmD"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:uservvmax@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-4caf50?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+### 👋 About Me
+> Developing skills in technical support and troubleshooting through dedicated study. Eager to apply knowledge in **hardware, software, and network administration** to provide exceptional user assistance.
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🔧 Skills Overview
+*Key technical competencies actively developed and applied.*
 
-> **Hi, I'm Max!**
->
-> Aspiring Computer Support Specialist, currently developing skills in technical support and troubleshooting through dedicated study. Eager to apply knowledge in **hardware, software, and network administration** to provide the best user assistance.
-
----
-
-## 🎓 Training & Education
-
-- **Technical Skills Focus:** Help Desk Support, System Administration, IT Infrastructure, User Support & Training, Problem Resolution.
-- **Community College:** CIT Computer Support Program (2023 - Present)
-- **Certifications & Training:** TestOut PC Pro, TestOut Hybrid Server Pro, IT Help Desk Fundamentals, pursuing CCNA and scripting.
-
----
-
-## 🛠️ Skills Overview
-
-- **Networking:** TCP/IP, DNS, DHCP, network troubleshooting
-- **Technical Support:** Diagnosing hardware/software issues, remote & in-person assistance, ticket management
-- **Operating Systems:** Windows (install, config, troubleshooting, user mgmt), basic Linux
-
----
-
-## 🚀 Project Archive
-
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
-      <span style="font-size:2rem;">🚀</span><br>
-      <b>WinTool</b><br>
-      <sub>System Utility</sub><br>
-      <a href="https://github.com/MTechWare/wintool"><img src="https://img.shields.io/badge/View%20Repo-333333?style=flat-square&logo=github" alt="View Repo"></a>
+    <td width="50%" valign="top">
+      <h4>🛠️ Technical Support</h4>
+      <ul>
+        <li>Hardware & Software Diagnostics</li>
+        <li>Remote Assistance & Troubleshooting</li>
+        <li>Ticket Management Systems</li>
+      </ul>
     </td>
-    <td align="center" width="33%">
-      <span style="font-size:2rem;">🌐</span><br>
-      <b>MTech Website</b><br>
-      <sub>Portfolio Site</sub><br>
-      <a href="https://github.com/MTechWare/MTechWare.github.io"><img src="https://img.shields.io/badge/View%20Repo-333333?style=flat-square&logo=github" alt="View Repo"></a>
+    <td width="50%" valign="top">
+      <h4>🖥️ Operating Systems</h4>
+      <ul>
+        <li>Windows Installation & Configuration</li>
+        <li>User Account & Security Management</li>
+        <li>System Performance Optimization</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Help Desk Support</h4>
+      <ul>
+        <li>User Support & Escalation Workflows</li>
+        <li>Technical Documentation</li>
+        <li>Clear Technical Communication</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 AI & Automation</h4>
+      <ul>
+        <li>AI Fundamentals for IT Support</li>
+        <li>Building Intelligent Support Tools</li>
+        <li>Workflow Automation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+*Personal projects demonstrating a growing skill set in system management and security.*
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/96/000000/wrench.png" width="48"/><br>
+      <b>MTech Toolkit</b><br>
+      Advanced Windows system management utility with a web interface.<br>
+      <a href="https://mtechware.github.io/app.html"><b>Get App →</b></a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/96/000000/safe.png" width="48"/><br>
+      <b>MVault</b><br>
+      Secure, local password manager built with React, TS, and Tauri.<br>
+      <a href="https://mtechware.github.io/mvault.html"><b>Get App →</b></a>
     </td>
   </tr>
 </table>
@@ -60,9 +86,11 @@
 ---
 
 ## 📫 Let's Connect
+- 🌐 **Portfolio:** [mtechware.github.io](https://mtechware.github.io/)
+- 💬 **Discord:** [Join the Community](https://discord.gg/GSTEfkxhmD)
+- ✉️ **Email:** [uservvmax@gmail.com](mailto:uservvmax@gmail.com)
 
-- <img src="https://img.icons8.com/ios-filled/20/ff9800/gmail.png" width="18"> **Email:** [uservvmax@gmail.com](mailto:uservvmax@gmail.com)
-- <img src="https://img.icons8.com/ios-filled/20/ff9800/github.png" width="18"> **Website:** [MTechWare](https://mtechware.github.io/)
-- <img src="https://img.icons8.com/ios-filled/20/ff9800/discord-logo.png" width="18"> **Discord:** [Join the community](https://discord.gg/GSTEfkxhmD)
-
----
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/MTechWare-%C2%A9%202026-ff9800?style=flat-square" alt="Copyright">
+</div>
